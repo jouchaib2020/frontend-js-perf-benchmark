@@ -1,0 +1,40 @@
+<script>
+  export let value;
+</script>
+
+<div>
+  <span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>{value}</span><span>-</span><span>-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  ><span>-</span><span>-</span><span>-</span><span>-</span><span>-</span><span
+    >-</span
+  >
+</div>
